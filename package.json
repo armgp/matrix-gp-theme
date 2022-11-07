@@ -2,6 +2,7 @@
   "name": "matrix-gp",
   "displayName": "matrix-gp",
   "description": "green and black",
+  "publisher": "AbhiramGP",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.73.0"
@@ -17,5 +18,9 @@
         "path": "./themes/matrix-gp-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/armgp/matrix-gp-theme"
   }
 }

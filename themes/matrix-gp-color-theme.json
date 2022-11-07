@@ -34,6 +34,7 @@
 		"terminal.selectionBackground": "#000000",
 		"terminal.selectionForeground": "#ffffff",
 		"terminal.inactiveSelectionBackground": "#b2ceb2",
+		"debugConsole.infoForeground": "#b2ceb2",
 	},
 	"tokenColors": [
 		{
